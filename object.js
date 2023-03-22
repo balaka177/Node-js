@@ -1,10 +1,6 @@
-
-let a=3;
-let b=5;
-const mul=(a,b) => {
-    return a*b;
+const student={
+    name :'vinod',
+    age: 26,
+    gender:'Male'
 }
-console.log(mul(a,b));
-
-
-
+console.log(student);
